@@ -4,7 +4,7 @@
 First-year university student passionate about leveraging computer science and entrepreneurship to create innovative, socially impactful solutions in technology and business. Proven leader with experience in STEM competitions, community service, and business initiatives.
 
 ## 🌐 Connect w/ me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/levipurkey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levipurkey/)
 [![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/levi.purk/)
 
 ## 💻 Tech Stack:
