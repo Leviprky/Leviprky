@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Levi Purkey</h1>
 
-<!--
-**Leviprky/Leviprky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me:
+First-year university student passionate about leveraging computer science and entrepreneurship to create innovative, socially impactful solutions in technology and business. Proven leader with experience in STEM competitions, community service, and business initiatives.
 
-Here are some ideas to get you started:
+## 🌐 Connect w/ me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/levipurkey)
+[![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/levi.purk/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+Languages: 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
